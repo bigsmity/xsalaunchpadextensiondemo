@@ -1,0 +1,9 @@
+{
+	"applications": {},
+	"bootstrapPlugins": {
+		"lpe": {
+			"component": "launchpaddemoplugin",
+			"url": "../../../../../"
+		}
+	}
+}

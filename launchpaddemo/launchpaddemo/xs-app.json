@@ -1,0 +1,7 @@
+{
+	"routes": [{
+		"source": "^/launchpaddemoplugin_dest/(.*)$",
+		"destination": "launchpaddemoplugin_dest",
+		"target": "$1"
+	}]
+}
