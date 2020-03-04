@@ -105,12 +105,12 @@
 				"technology": "UI5"
 			},
 			"sap.ui5": {
-				"componentName": "launchpaddemoplugin.launchpaddemoplugin",
+				"componentName": "launchpaddemoplugin",
 				"_version": "1.2.0"
 			},
 			"sap.platform.runtime": {
 				"componentProperties": {
-					"url": "/launchpaddemoplugin_dest/launchpaddemoplugin"
+					"url": "/launchpaddemoplugin_dest"
 				}
 			},
 			"sap.flp": {
